@@ -1,2 +1,22 @@
 
 barbershop.db
+node_modules/.package-lock.json
+node_modules/jquery-simplecolorpicker/.npmignore
+node_modules/jquery-simplecolorpicker/LICENSE.txt
+node_modules/jquery-simplecolorpicker/README.md
+node_modules/jquery-simplecolorpicker/bower.json
+node_modules/jquery-simplecolorpicker/demo.html
+node_modules/jquery-simplecolorpicker/jquery.simplecolorpicker-fontawesome.css
+node_modules/jquery-simplecolorpicker/jquery.simplecolorpicker-glyphicons.css
+node_modules/jquery-simplecolorpicker/jquery.simplecolorpicker-regularfont.css
+node_modules/jquery-simplecolorpicker/jquery.simplecolorpicker.css
+node_modules/jquery-simplecolorpicker/jquery.simplecolorpicker.js
+node_modules/jquery-simplecolorpicker/package.json
+package-lock.json
+package.json
+public/jquery.datetimepicker.full.min.js
+public/jquery.datetimepicker.min.css
+public/jquery.simplecolorpicker.css
+public/jquery.simplecolorpicker.js
+barbershop.db-shm
+barbershop.db-wal
