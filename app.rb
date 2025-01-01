@@ -18,7 +18,7 @@ class Barber < ActiveRecord::Base
 end
 
 before do 
-	@barbers = Barber.all	
+	@barbers = Barber.all		
 end	
 
 get '/' do
@@ -47,6 +47,8 @@ get '/barber/:id' do
 	@barber = Barber.find(params[:id])
 	erb :barber	
 end
+
+
          
                                                                                                  
 	                                                   
